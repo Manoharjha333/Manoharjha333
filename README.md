@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Manoharjha333/Manoharjha333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m M<anohar Jha
 
-Here are some ideas to get you started:
+## 🧔 I am a data scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on Machine Learning and Deep learning projects.
+
+## 🌱 I’m currently learning various machine learning techniques.
+
+## 👀 I’m interested in data visualization, data analysis, machine learning, and deep learning projects.
+
+## 🌱 I’m currently learning Data science.
+
+## 💞️ I’m looking to collaborate on Machine learning projects.
+
+## 📫 How to reach me kmanoharjha007@gmail.com/6204624490
