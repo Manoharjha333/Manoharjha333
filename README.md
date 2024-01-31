@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 👋 Hi, I’m M<anohar Jha
+# I’m M<anohar Jha
 
 ## 🧔 I am a data scientist.
 
