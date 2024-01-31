@@ -1,4 +1,4 @@
-# Hi there 👋 I’m M<anohar Jha
+# Hi there 👋 I’m Manohar Jha
 
 ## 🧔 I am a data scientist.
 
