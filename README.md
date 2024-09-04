@@ -12,7 +12,7 @@
 
 ## 💞️ I’m looking to collaborate on Machine learning projects.
 
-## 📫 How to reach me kmanoharjha007@gmail.com/6204624490
+## 📫 You can reach me kmanoharjha007@gmail.com/6204624490
 
 
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue)](http://www.atmoin.com/mj)
